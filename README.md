@@ -25,7 +25,7 @@ alt=“snake” /></a>
   - 👨‍🎓 Tenho 20 anos e moro no Brasil  
   - 🧩 Estudo C#, PHP, React e TypeScript  
   - 🧠 Buscando evoluir tanto no front quanto no back-end  
-  - 🧘‍♂️ Gosto de treinar, estudar, e trabalhar em projetos que me desafiem  
+  - 🧘🏻 Gosto de treinar, estudar, e trabalhar em projetos que me desafiem  
   - 🎮 Também curto games, filmes e aprender coisas novas constantemente
 </details>
 
